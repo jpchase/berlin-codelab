@@ -1,2 +1,2 @@
-io13-codelab
+Berlin 2014 Chrome Apps for Mobile
 ============
